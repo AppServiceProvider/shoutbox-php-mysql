@@ -6,3 +6,4 @@ Shoutit is a PHP powered shoutbox which uses mySQL to store shouts. This is a ve
   * MySQL Select, MySQL Insert, Loops, Superglobals (GET, POST), Associative Arrays, 
 ## Snapshots
 ![Screenshot_622](https://user-images.githubusercontent.com/47697490/118495107-b064fe80-b744-11eb-8ed0-d4d111bcc9b5.png)
+![Screenshot_623](https://user-images.githubusercontent.com/47697490/118496716-33d31f80-b746-11eb-8859-e5330da85370.png)
